@@ -21,7 +21,7 @@ They can also track their workout for the past week as well.
 ## Usage
 
 ​
-In order to use this application, visit the [deployed application]()
+In order to use this application, visit the [deployed application](https://cbc-workout-tracker.herokuapp.com)
 ​
 
 ## License
